@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.boton_edad {
+    background-color: cadetblue;
+    color: white;
+}
